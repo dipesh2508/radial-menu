@@ -75,22 +75,6 @@ body {
     background-color: #eef;
 }
 
-/* Author stuff */
-h1.author {
-    text-align: center;
-    color: white;
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: 300;
-}
-
-h1.author a {
-    color: #348;
-    text-decoration: none;
-}
-
-h1.author a:hover {
-    color: #ddd;
-}
 
 footer{
     position: absolute;
