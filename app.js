@@ -10,4 +10,7 @@ document.querySelector('.menu-button').onclick = function (e) {
 
     e.preventDefault();
     document.querySelector('.circle').classList.toggle('open');
+    document.querySelector('.menu-button').classList.toggle('fa-bars');
+    document.querySelector('.menu-button').classList.toggle('fa-solid');
+    document.querySelector('.menu-button').classList.toggle('fa-xmark');
 }
